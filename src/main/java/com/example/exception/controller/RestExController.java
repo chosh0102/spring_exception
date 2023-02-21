@@ -27,7 +27,7 @@ public class RestExController {
 		log.info("api/string の呼び出し");
 		return "Hello World";
 	}
-
+//
 //	@ResponseStatus(HttpStatus.BAD_REQUEST)
 //	@ExceptionHandler
 //	public ErrorResult illegalExHandle(IllegalArgumentException e) {
