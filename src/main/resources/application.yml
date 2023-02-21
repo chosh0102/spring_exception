@@ -1,0 +1,9 @@
+server:
+  port: 9000
+  error:
+    whitelabel:
+      enabled: true
+      
+    include-exception: false
+    include-message: never
+    include-stacktrace: never      
